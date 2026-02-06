@@ -58,7 +58,7 @@ Make sure you have:
 
 1. Clone the project:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jandy-roach/expense-splitter.git
 ```
 
 2. Go to the project folder:
